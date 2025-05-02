@@ -1,0 +1,27 @@
+# Core Web Framework
+fastapi
+uvicorn
+
+# Machine Learning & NLP
+torch
+transformers
+tensorflow
+nltk
+
+# Sentiment Analysis
+textblob
+vaderSentiment
+
+# Additional Dependencies
+pydantic
+python-dotenv
+slowapi  # Rate Limiting
+redis  # For distributed rate limiting
+httpx
+
+# Logging and Monitoring
+structlog
+
+# Optional: Database for storing conversation contexts
+motor  # Async MongoDB driver
+pymongo

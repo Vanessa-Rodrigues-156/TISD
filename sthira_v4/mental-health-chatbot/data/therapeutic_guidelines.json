@@ -1,0 +1,34 @@
+{
+    "communication_principles": [
+        "Always maintain empathy and non-judgmental attitude",
+        "Validate the user's feelings and experiences",
+        "Provide supportive and constructive guidance",
+        "Respect user's privacy and emotional boundaries"
+    ],
+    "risk_assessment": {
+        "high_risk": {
+            "indicators": [
+                "Suicidal ideation",
+                "Severe emotional distress",
+                "Signs of self-harm"
+            ],
+            "recommended_action": "Immediately suggest professional help and provide crisis resources"
+        },
+        "moderate_risk": {
+            "indicators": [
+                "Persistent negative thoughts",
+                "Emotional instability",
+                "Signs of potential mental health challenges"
+            ],
+            "recommended_action": "Encourage professional consultation and provide supportive resources"
+        },
+        "low_risk": {
+            "indicators": [
+                "Mild emotional fluctuations",
+                "Situational stress",
+                "Normal emotional responses"
+            ],
+            "recommended_action": "Provide coping strategies and emotional support"
+        }
+    }
+}
